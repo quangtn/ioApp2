@@ -11,3 +11,12 @@
 2014-06-21 18:03:56.179 HelloCordova[10200:70b] Resetting plugins due to page load.
 2014-06-21 18:03:56.314 HelloCordova[10200:70b] Finished load of: file:///Users/quangnguyen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B5590D6B-E8B5-488A-A127-C60A6E902F4E/HelloCordova.app/www/index.html#/app/playlists
 Terminating in response to SpringBoard's termination.
+2014-06-21 18:47:59.887 HelloCordova[10801:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-21 18:47:59.908 HelloCordova[10801:70b] Unlimited access to network resources
+2014-06-21 18:48:00.112 HelloCordova[10801:70b] [CDVTimer][statusbar] 62.345982ms
+2014-06-21 18:48:00.112 HelloCordova[10801:70b] [CDVTimer][TotalPluginStartup] 62.852979ms
+2014-06-21 18:48:00.193 HelloCordova[10801:70b] Resetting plugins due to page load.
+2014-06-21 18:48:00.403 HelloCordova[10801:70b] Finished load of: file:///Users/quangnguyen/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B5590D6B-E8B5-488A-A127-C60A6E902F4E/HelloCordova.app/www/index.html#/app/playlists
+2014-06-21 18:48:30.260 HelloCordova[10801:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-06-21 18:48:30.261 HelloCordova[10801:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
